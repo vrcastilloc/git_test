@@ -1,0 +1,19 @@
+.container {
+    width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar {
+    display: flex;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
